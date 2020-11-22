@@ -21,6 +21,11 @@ API Changes
 
 - Add support for replying to a :class:`Message` (:issue:`6054`)
 
+Miscellaneous
+~~~~~~~~~~~~~~~
+
+- Add :attr:`Paginator.linesep` to allow further customization of the Paginator.
+
 .. _vp1p5p1:
 
 v1.5.1
